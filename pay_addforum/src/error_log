@@ -1,0 +1,2 @@
+[22-Jul-2023 06:27:01 America/Boise] PHP Warning:  The magic method Instamojo\Instamojo::__wakeup() must have public visibility in /home3/rdmozsmy/public_html/Z_Sites/royaltrends.in/admin/pay_addforum/src/Instamojo.php on line 619
+[22-Jul-2023 06:27:01 America/Boise] PHP Warning:  The magic method Instamojo\Instamojo::__sleep() must have public visibility in /home3/rdmozsmy/public_html/Z_Sites/royaltrends.in/admin/pay_addforum/src/Instamojo.php on line 625
